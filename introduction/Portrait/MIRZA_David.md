@@ -8,3 +8,6 @@ J'aime beaucoup programmer et le code m'intéresse beaucoup. Dans le programme T
 ## **L'exposition des dinosaures au Centre des sciences de Montréal**
 
 ![photo](photos/dinosaures_cdsdm.jpg)
+
+Quand j'étais petit, j'avais une obsession envers les dinosaures. Donc le jour où je suis allé voir l'exposition avec mes parents, j'étais vraiment excité.
+Voici une courte vidéo par le Centre des sciences de Montréal qui montre l'exposition: https://www.youtube.com/watch?v=VLV2hyKE-yE 
