@@ -17,7 +17,7 @@ L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consist
 ## Type d'installation 
 Intéractif, immersive
 ## Mise en espace
-
+![photo](media/croquis_vr.jpg)
 ## Éléments de mise en exposition
 On a besoins des murs (un mur pour projeter des images venant du casque VR et un mur pour l'affiche) et un plafon pour accrocher le projecteur.
 ## Expérience de vécue
