@@ -29,7 +29,6 @@ Intéractif, immersive
 On a besoins des murs (un mur pour projeter des images venant du casque VR et un mur pour l'affiche) et un plafon pour accrocher le projecteur.
 ## Expérience de vécue
 Quand j'ai mis le casque VR, je voyais des images d'insectes. Pendand que ce temps, la chaise vibrait.
-![video](media/video-david-vr.mp4)
 ## Ce que j'ai plus
 J'ai aimé intéragir avec les images dans le casque VR.
 ## Ce que vous feriez autrement
