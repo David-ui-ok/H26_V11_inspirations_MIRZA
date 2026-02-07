@@ -2,6 +2,7 @@
 ## Lieu de l'exposition 
 2940, ch. de la Côte-Sainte-Catherine.
 ![photo](media/entree_expo.jpg)
+![photo](media/description_expo)
 ## Type d'exposition
 Temporaire, intérieur
 ## Date de ma visite
@@ -17,6 +18,7 @@ Marie-Ève Levasseur
 L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consiste des casques de réalité virtuelle, des chaises fais en bois avec des coussins, un projecteur et cables. La deuxième partie est une grande affiche remplie d'images générées par l'IA.
 ![photo](media/vue_tout_vr.jpg)
 ![photo](media/casque_vr.jpg)
+![photo](media/casque_vr.jpg)
 ![photo](media/oeuvres2_vr.jpg)
 ## Type d'installation 
 Intéractif, immersive
@@ -29,5 +31,7 @@ Quand j'ai mis le casque VR, je voyais des images d'insectes. Pendand que ce tem
 ## Ce que j'ai plus
 J'ai aimé intéragir avec les images dans le casque VR.
 ## Ce que vous feriez autrement
-J'aurai aimé qu'il y a plus de casque discponible aux gens pour essayer, comme ça on ne devrait pas attendre notre tour. Aussi, j'aimerais qu'il y a autre chose à faire avec le casque à part jouer avec des images. Après 5 minutes, ça devient un peu ennuyant.
+J'aurai aimé qu'il y a plus de casques discponibles aux gens pour essayer, comme ça on ne devrait pas attendre notre tour. Aussi, j'aimerais qu'il y a autre chose à faire avec le casque à part jouer avec des images. Après 5 minutes, ça devient un peu ennuyant.
 ## Références
+- Fiche de banque d'inspiration (donnée par l'enseignante)
+- Photos prisent avec mon téléphone cellulaire
