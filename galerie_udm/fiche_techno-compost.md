@@ -1,6 +1,7 @@
 # Devenirs partages. Pratiques de l'IA
 ## Lieu de l'exposition 
 2940, ch. de la Côte-Sainte-Catherine.
+(photo)[media/entree_expo.jpg]
 ## Type d'exposition
 Temporaire, intérieur
 ## Date de ma visite
