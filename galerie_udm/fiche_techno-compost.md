@@ -8,6 +8,7 @@ Temporaire, intérieur
 Vendredi 30 janvier, 2026
 ## Titre de l'oeuvre que j'ai choisi
 Techno-compost
+![photo](media/description_oeuvres.jpg)
 ## Nom de l'artiste 
 Marie-Ève Levasseur
 ## Année de réalisation
