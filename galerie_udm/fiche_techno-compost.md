@@ -15,7 +15,7 @@ Marie-Ève Levasseur
 ## Année de réalisation
 2025
 ## Description de l'oeuvre et composantes
-L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consiste des casques de réalité virtuelle, des chaises fais en bois avec des coussins, un projecteur et des cables. La deuxième partie est une grande affiche remplie d'images générées par l'IA.
+L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consiste des casques de réalité virtuelle, des chaises faites en bois avec des coussins, un projecteur et des cables. La deuxième partie est une grande affiche remplie d'images générées par l'IA. L'idée derrière l'oeuvre est de <<recycler>> les images efffacées et de les réutiliser.
 ![photo](media/vue_tout_vr.jpg)
 ![photo](media/casque_vr.jpg)
 ![photo](media/casque_vr2.jpg)
@@ -26,13 +26,14 @@ Intéractif, immersive
 ## Mise en espace
 ![photo](media/croquis_vr.jpg)
 ## Éléments de mise en exposition
-On a besoins des murs (un mur pour projeter des images venant du casque VR et un mur pour l'affiche) et un plafon pour accrocher le projecteur.
+On a besoins des murs (un mur pour projeter des images venant du casque de réalité virtuelle et un mur pour l'affiche) et un plafon pour accrocher le projecteur.
 ## Expérience de vécue
-Quand j'ai mis le casque VR, je voyais des images d'insectes. Pendand que ce temps, la chaise vibrait.
+Quand j'ai mis le casque VR, je voyais des images d'insectes. J'étais capable de prendre, d'agrandir et de déplacer les images. Pendant ce temps, la chaise vibrait, ce qui emplifiait l'expérience d'immersion.
 ## Ce que j'ai plus
-J'ai aimé intéragir avec les images dans le casque VR.
+- J'ai aimé intéragir avec les images dans le casque VR
+- La chaise qui vibre emplifie l'expérience d'immersion
 ## Ce que vous feriez autrement
-J'aurai aimé qu'il y a plus de casques discponibles aux gens pour essayer, comme ça on ne devrait pas attendre notre tour. Aussi, j'aimerais qu'il y a autre chose à faire avec le casque à part jouer avec des images. Après 5 minutes, ça devient un peu ennuyant.
+J'aurai aimé qu'il aille plus de casques disponibles aux gens pour essayer, comme ça on ne devrait pas attendre notre tour. Aussi, j'aimerais qu'il aille autre chose à faire avec le casque que de jouer avec des images. Après 5 minutes, ça devient un peu ennuyant.
 ## Références
 - Fiche de banque d'inspiration (donnée par l'enseignante)
 - Photos prisent avec mon téléphone cellulaire
