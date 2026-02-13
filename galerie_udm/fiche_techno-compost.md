@@ -55,7 +55,7 @@ Affiche qui illustre des images "recyclées", générées par l'IA (deuxième pa
 ## Type d'installation 
 Intéractif, immersive
 ## Mise en espace
-Dans mon croquis, je montre le casque VR, la chaises qui est branchée vers le routeur avec les cables, le projecteur et l'affiches qui contient des images générées par l'IA.
+Dans mon croquis, je montre le casque VR, la chaise qui est branchée vers le routeur avec les cables, le projecteur et l'affiches qui contient des images générées par l'IA.
 ![photo](media/croquis_vr.jpg)
 > Photo prise par David Mirza
 
