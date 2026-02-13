@@ -15,12 +15,16 @@ Marie-Ève Levasseur
 ## Année de réalisation
 2025
 ## Description de l'oeuvre
-L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consiste des casques de réalité virtuelle, des chaises faites en bois avec des coussins, un projecteur et des cables. La deuxième partie est une grande affiche remplie d'images générées par l'IA. L'idée derrière l'oeuvre est de ''recycler'' les images efffacées et de les réutiliser.
+L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consiste des casques de réalité virtuelle, des chaises faites en bois avec des coussins, un projecteur et des cables. La deuxième partie est une grande affiche remplie d'images générées par l'IA. L'idée derrière l'oeuvre est de "recycler" les images efffacées et de les réutiliser.
 ## Composantes
+Vue d'enssemble de l'oeuvre:
 ![photo](media/vue_tout_vr.jpg)
+Les casques VR:
 ![photo](media/casque_vr.jpg)
 ![photo](media/casque_vr2.jpg)
+Le projecteur qui illustre qu'est-ce qu'on voit dans les casques VR:
 ![photo](media/projecteur.jpg)
+Affiche qui illustre des images "recyclées", générées par l'IA (deuxième oeuvre):
 ![photo](media/oeuvres2_vr.jpg)
 ## Type d'installation 
 Intéractif, immersive
