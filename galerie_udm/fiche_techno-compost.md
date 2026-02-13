@@ -61,7 +61,7 @@ Dans mon croquis, je montre le casque VR, la chaise qui est branchée vers le ro
 
 
 ## Éléments de mise en exposition
-On a besoins des murs (un mur pour projeter des images venant du casque de réalité virtuelle et un mur pour l'affiche) et un plafon pour accrocher le projecteur.
+On a besoin des murs (un mur pour projeter des images venant du casque de réalité virtuelle et un mur pour l'affiche) et un plafond pour accrocher le projecteur.
 ## Expérience de vécue
 Quand j'ai mis le casque VR, je voyais des images d'insectes. J'étais capable de prendre, d'agrandir et de déplacer les images. Pendant ce temps, la chaise vibrait, ce qui emplifiait l'expérience d'immersion.
 ## Ce que j'ai aimé de l'oeuvre
