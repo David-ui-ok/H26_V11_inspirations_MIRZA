@@ -24,8 +24,10 @@ Marie-Ève Levasseur
 ## Année de réalisation
 2025
 ## Description de l'oeuvre
-L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consiste des casques de réalité virtuelle, des chaises faites en bois avec des coussins, un projecteur et des cables. La deuxième partie est une grande affiche remplie d'images générées par l'IA. L'idée derrière l'oeuvre est de "recycler" les images efffacées et de les réutiliser.
+L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consiste des casques de réalité virtuelle, des chaises faites en bois avec des coussins, un projecteur et des cables. La deuxième partie est une grande affiche remplie d'images générées par l'IA. L'idée derrière l'oeuvre est de "recycler" les images effacées et de les réutiliser. 
 ## Composantes
+L'oeuvre inclus des casque VR, des chaises avec des coussins, un projecteur et des cables et un routeur. Les cables sont attachées derrière les chaises et ils sont connectés vers le routeur et le projecteur. Derrière les chaises, on trouve aussi des haut-parleurs qui vibre les chaises, ce qui emplifie l'effect d'immersion.
+
 Vue d'enssemble de l'oeuvre:
 ![photo](media/vue_tout_vr.jpg)
 > Photo prise par David Mirza
@@ -61,7 +63,7 @@ Intéractif, immersive
 On a besoins des murs (un mur pour projeter des images venant du casque de réalité virtuelle et un mur pour l'affiche) et un plafon pour accrocher le projecteur.
 ## Expérience de vécue
 Quand j'ai mis le casque VR, je voyais des images d'insectes. J'étais capable de prendre, d'agrandir et de déplacer les images. Pendant ce temps, la chaise vibrait, ce qui emplifiait l'expérience d'immersion.
-## Ce que j'ai plus
+## Ce que j'ai aimé de l'oeuvre
 - J'ai aimé intéragir avec les images dans le casque VR
 - La chaise qui vibre emplifie l'expérience d'immersion
 ## Ce que vous feriez autrement
