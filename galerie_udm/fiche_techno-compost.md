@@ -66,7 +66,7 @@ Quand j'ai mis le casque VR, je voyais des images d'insectes. J'étais capable d
 ## Ce que j'ai aimé de l'oeuvre
 - J'ai aimé intéragir avec les images dans le casque VR
 - La chaise qui vibre emplifie l'expérience d'immersion
-## Ce que vous feriez autrement
+## Ce que j'aurai fais autrement
 J'aurai aimé qu'il aille plus de casques disponibles aux gens pour essayer, comme ça on ne devrait pas attendre notre tour. Aussi, j'aimerais qu'il aille autre chose à faire avec le casque que de jouer avec des images. Après 5 minutes, ça devient un peu ennuyant.
 ## Références
 - Fiche de banque d'inspiration (donnée par l'enseignante)
