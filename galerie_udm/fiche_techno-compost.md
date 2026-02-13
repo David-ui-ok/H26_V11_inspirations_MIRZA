@@ -47,7 +47,7 @@ Le projecteur:
 > Photo prise par David Mirza
 
 
-Affiche qui illustre des images "recyclées", générées par l'IA (deuxième oeuvre):
+Affiche qui illustre des images "recyclées", générées par l'IA (deuxième partie de l'oeuvre):
 ![photo](media/oeuvres2_vr.jpg)
 > Photo prise par David Mirza
 
