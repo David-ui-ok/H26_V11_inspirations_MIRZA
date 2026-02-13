@@ -2,7 +2,13 @@
 ## Lieu de l'exposition 
 2940, ch. de la Côte-Sainte-Catherine.
 ![photo](media/entree_expo.jpg)
+> Photo prise par David Mirza
+
+
 ![photo](media/description_expo.jpg)
+> Photo prise par David Mirza
+
+
 ## Type d'exposition
 Temporaire, intérieur
 ## Date de ma visite
@@ -10,6 +16,9 @@ Vendredi 30 janvier, 2026
 ## Titre de l'oeuvre que j'ai choisi
 Techno-compost
 ![photo](media/description_oeuvre.jpg)
+> Photo prise par David Mirza
+
+
 ## Nom de l'artiste 
 Marie-Ève Levasseur
 ## Année de réalisation
@@ -19,17 +28,35 @@ L'oeuvre de Marie-Ève est séparé en deux parties. La première partie consist
 ## Composantes
 Vue d'enssemble de l'oeuvre:
 ![photo](media/vue_tout_vr.jpg)
+> Photo prise par David Mirza
+
+
 Les casques VR:
 ![photo](media/casque_vr.jpg)
+> Photo prise par David Mirza
+
+
 ![photo](media/casque_vr2.jpg)
+> Photo prise par David Mirza
+
+
 Le projecteur qui illustre qu'est-ce qu'on voit dans les casques VR:
 ![photo](media/projecteur.jpg)
+> Photo prise par David Mirza
+
+
 Affiche qui illustre des images "recyclées", générées par l'IA (deuxième oeuvre):
 ![photo](media/oeuvres2_vr.jpg)
+> Photo prise par David Mirza
+
+
 ## Type d'installation 
 Intéractif, immersive
 ## Mise en espace
 ![photo](media/croquis_vr.jpg)
+> Photo prise par David Mirza
+
+
 ## Éléments de mise en exposition
 On a besoins des murs (un mur pour projeter des images venant du casque de réalité virtuelle et un mur pour l'affiche) et un plafon pour accrocher le projecteur.
 ## Expérience de vécue
@@ -41,4 +68,4 @@ Quand j'ai mis le casque VR, je voyais des images d'insectes. J'étais capable d
 J'aurai aimé qu'il aille plus de casques disponibles aux gens pour essayer, comme ça on ne devrait pas attendre notre tour. Aussi, j'aimerais qu'il aille autre chose à faire avec le casque que de jouer avec des images. Après 5 minutes, ça devient un peu ennuyant.
 ## Références
 - Fiche de banque d'inspiration (donnée par l'enseignante)
-- Photos prisent avec mon téléphone cellulaire
+- Photos prises avec mon téléphone cellulaire (par David Mirza)
