@@ -42,7 +42,7 @@ Les casques VR:
 > Photo prise par David Mirza
 
 
-Le projecteur qui illustre qu'est-ce qu'on voit dans les casques VR:
+Le projecteur:
 ![photo](media/projecteur.jpg)
 > Photo prise par David Mirza
 
