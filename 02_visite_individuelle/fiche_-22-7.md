@@ -1,13 +1,13 @@
-#Nom de l'exposition
+# Nom de l'exposition
 -22.7
-##Lieu de l'exposition
+## Lieu de l'exposition
 La SAT (Société des arts technologiques)
-##Type d'exposition
+## Type d'exposition
 Temporaire, intérieure
-##Nom de la firme
+## Nom de la firme
 Dirty Monitor (un studio basé en belgique)
-##Nom de l'artiste
+## Nom de l'artiste
 Molécule (porducteur de musique électronique)
-##Année de réalisation
+## Année de réalisation
 2017
-##Description de l'oeuvre
+## Description de l'oeuvre
