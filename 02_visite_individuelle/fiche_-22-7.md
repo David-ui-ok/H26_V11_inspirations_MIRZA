@@ -1,7 +1,11 @@
 # Nom de l'exposition
 -22.7
+![](media/-22-7_cartel-info.jpg)
+![](media/-22-7_cartel-info2.jpg)
 ## Lieu de l'exposition
 La SAT (Société des arts technologiques)
+![](media/-22-7_entree-sat.jpg)
+![](media/-22-7_salle-exposition.jpg)
 ## Type d'exposition
 Temporaire, intérieure
 ## Nom de la firme
@@ -17,7 +21,7 @@ L'exposition a lieu dans le dome de la SAT. C'est une esperience immersive où i
 ## Type d'installation
 Immersive
 ## Mise en espace
-
+![](media/-22-7_croquis.jpg)
 ## Composantes et techniques
 - Des fichiers pour les images
 - des fichiers pour les sons
@@ -25,8 +29,13 @@ Immersive
 - Le dome
 - Les haut-parleurs
 - Les projecteurs
+![](media/-22-7_vue-dome.JPG)
+![](media/-22-7_projecteur_haut-parleurs)
+![](media/-22-7_structure_dome.jpg)
 ## Expérience du vécu
 Je me sentais immersé. Après quelque minutes, j'étais complètement immersé dans les images projetées dans le dome. J'avais complètement oublié que j'étais à la SAT. Dans le dome où se trouve la salle de l'exposition, il y avait des poufes. Les images sont projetées en 360 degrés, par contre il y avait toujours un élément en particulier à regarder dans les images. Cela expliquerait pourquoi les poufs sont visés vers la même direction.
+![](media/image-projetee.jpg)
+![](media/image-projetee2.JPG)
 ## Ce que j'ai aimé
 - Le fait qu'il y avait seulement un élément à ce concentrer dans les images
 - Je pouvais m'alonger dans les poufs
