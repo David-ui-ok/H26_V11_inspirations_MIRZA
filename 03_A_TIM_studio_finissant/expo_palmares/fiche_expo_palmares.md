@@ -71,7 +71,7 @@ pour me pronener dans l'eau et de ramasser les déchets. Par contre, après une 
 ![](media/site_yeux_schema.jpg)
 > https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/
 
-En entrant dans le grand studio, une des premières choses que je voyais c'étais une espèce de machine dans un charieau avec plusieurs écrans. J'étais curieux et je m'approchais de la machine. Puis soudain, mon visage apparissait dans les écrans, ce qui m'a surpirs. Je m'amusait a faire 
+En entrant dans le grand studio, une des premières choses que je voyais c'étais une espèce de machine dans un charieau avec plusieurs écrans. J'étais curieux et je m'approchais de la machine. Puis soudain, mon visage apparissait dans les écrans, ce qui m'a surpris. Je m'amusait a faire 
 des grimaces dans les écrans et j'ai constaté que plusieurs fesait la même chose que moi. Je trouve ce projet interessant, mais rien de spectaculaire. Je m'ennuyais après deux minutes.
 ## 6- Arbre en face
 ### Noms des créateurs
