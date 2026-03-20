@@ -27,7 +27,7 @@ personnes et qu'on peut collaborer pour battre des niveaux. Le jeu TERMINAL est 
 ![](media/site_oignon_schema.jpg)
 > https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/
 
-Pour une personne comme moi qui est intéressé à l'astrologie, le jeu m'a parru intriguant même avant de l'essayer. Après d'avoir essayer le jeu, je peux dire que c'étais compliqué. Il y avait beaucoup de boutons qui fesait différentes choses et j'oubliais tout le temps quel boutons fait quoi.
+Pour une personne comme moi qui est intéressé à l'astrologie, le jeu m'a parru intriguant même avant de l'essayer. Après d'avoir essayer le jeu, je peux dire que c'était compliqué. Il y avait beaucoup de boutons qui fesait différentes choses et j'oubliais tout le temps quel boutons fait quoi.
 De plus, il y avait toujours des évènements dans le jeu qui t'empêchait de gagner et ça rendait le jeu trop difficile. Malgré tout ça, j'ai quand même aimé ce projet et la thématique. J'ai aussi aimé qu'on pouvait jouer en collaborant avec d'autres personnes pour rendre les jeu plus amusant.
 ## 3- Symbiose
 ### Noms des créateurs
