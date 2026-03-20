@@ -56,7 +56,7 @@ c'est plus difficile à collaborer dans le jeu, car il y a beaucoup de choses qu
 ![](media/site_ocean-rouge_schema-face.png)
 > https://deux-intelligence.github.io/deux-neurones/#/technique/
 
-Quand j'ai vu la machine d'arcade avec où tu pouvais jouer avec, j'étais intrigué. Le fait de jouer un jeu dans une machine d'arcade te donne un peu l'impression de jouer un jeu retro, mais pourtant la qualité du jeu n'est pas 8-bit. Je trouvais ça amusant d'utiliser la manette de jeu
+Quand j'ai vu la machine d'arcade dont tu pouvais jouer avec, j'étais intrigué. Le fait de jouer un jeu dans une machine d'arcade te donne un peu l'impression de jouer un jeu retro, mais pourtant la qualité du jeu n'est pas 8-bit. Je trouvais ça amusant d'utiliser la manette de jeu
 pour me pronener dans l'eau et de ramasser les déchets. Par contre, après une partie ou deux, ça devient ennuyant. Il n'y avait pas autre choses à faire dans le jeu à part se pronener dans l'eau et de ramasser les déchets.
 ## 5- Quand les yeux se croisent
 ### Noms des créateurs
