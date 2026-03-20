@@ -21,11 +21,8 @@
 - Walid Cheour
 ## 4- Océan Rouge
 ### Noms des créateurs
-- Alexandre Gendron
-- Mikael Arseneau
-- Mathieu Willett
-- Matis Ghariani
-- Rafael Angon Dube
+- Amira Tounekti
+- Kristy Moussally
 ## 5- Quand les yeux se croisent
 ### Noms des créateurs
 - Edelwyn Ledu
@@ -35,5 +32,8 @@
 - Patricia Nassif
 ## 6- Arbre en face
 ### Noms des créateurs
-- Amira Tounekti
-- Kristy Moussally
+- Alexandre Gendron
+- Mikael Arseneau
+- Mathieu Willett
+- Matis Ghariani
+- Rafael Angon Dube
