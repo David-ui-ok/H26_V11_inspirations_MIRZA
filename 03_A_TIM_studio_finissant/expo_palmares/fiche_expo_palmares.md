@@ -87,5 +87,5 @@ des grimaces dans les écrans et j'ai constaté que plusieurs fesait la même ch
 ![](media/site_arbre-en-face_schema.jpg)
 > https://mammouths.github.io/projet/#/technique/ 
 
-Parmis tout les projets, Arbre-en-face était le projet que j'aimais le moins. L'idée de faire pousser des arbres sur le tableau blanc est rigolo, mais pas très interessant. J'ai constaté qu'il y avait très peu de personne qui experimentait ce projet et c'est dommage. S'il y avait une
+Parmis tout les projets, Arbre-en-face était le projet que j'aimais le moins. L'idée de faire pousser des arbres sur le tableau blanc est rigolo, mais pas très interessant. J'ai constaté qu'il y avait très peu de personnes qui experimentaient ce projet et c'est dommage. S'il y avait une
 autre forme d'interactivité avec les tableau et les étudiants, peut-être ce projet attirerait plus de personne à tester l'oeuvre.
