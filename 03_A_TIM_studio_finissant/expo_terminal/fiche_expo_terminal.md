@@ -21,3 +21,10 @@ TERMINAL est un projet réalisé par des finissants en Technique d'intégration 
 avec un téléphone cellulaire. L'objectif du jeu est de finir chaque niveau en évitant des obstacles. 
 ## Type d'installation
 Interactive
+## Mise en espace
+
+## Composantes techniques
+
+## Éléments nécessaires à la mise en exposition
+
+## Expérience vécue
