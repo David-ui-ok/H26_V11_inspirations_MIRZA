@@ -1,3 +1,5 @@
 # TERMINAL
 ## Lieu de l'exposition
-Au grand studio (Collège Montmorency)
+Au Grand studio (Collège Montmorency)
+## Type d'exposition
+Temporaire
