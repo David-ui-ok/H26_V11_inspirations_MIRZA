@@ -7,7 +7,7 @@ Temporaire
 - Première visite : Mardi 24 février 2026
 - Deuxième visite : Mardi 17 mars 2026
 ## Titre de l'oeuvre
-Terminal
+TERMINAL
 ## Noms des artistes
 - Émeryk Bélisle
 - Elie Daher
