@@ -19,3 +19,5 @@ TERMINAL
 ## Description de l'oeuvre
 TERMINAL est un projet réalisé par des finissants en Technique d'intégration multimédia. C'est un jeu collaboratif et on peut jouer avec un maximum de 6 joueurs. Pour accéder au jeu TERMINAL, il faut scanner un code QR (fourni par les finissants)
 avec un téléphone cellulaire. L'objectif du jeu est de finir chaque niveau en évitant des obstacles. 
+## Type d'installation
+Interactive
