@@ -28,3 +28,16 @@ Interactive
 ## Éléments nécessaires à la mise en exposition
 
 ## Expérience vécue
+### À ma première visite
+Je me rappel d'être vraiment intrigué quand j'avais vu << Terminal >> projeté en gros sur l'un des murs du studio. J'avais eu beaucoup
+de plaisir quand j'avais essayé le jeu pour la première fois. Cependant, c'étais dommage qu'il y avait à ce temps là seulement deux
+niveaux.
+### À ma deuxième visite
+Puisque j'avais aimé mon premier expérience avec le jeu TERMINAL, j'avais hâte à la deuxième visite pour voir les modifications ajoutées.
+Les finissants avaient ajoutés des niveaux qui variaient en dificulté. Je pouvaient jouer le jeu TERMINAL pendant plusieurs heures
+consécutives avec mes amis.
+## Ce que j'ai aimé
+- Les niveaux étaient ni trop facile et ni trop difficile
+- Je peux jouer en collaborant avec mes amis
+## Ce que je n'ai pas aimé
+- Quand le jeu introduit une nouvelle mécanique, ça serait bien qu'on aille des explications sur comment fonctionnent les mécaniques. 
