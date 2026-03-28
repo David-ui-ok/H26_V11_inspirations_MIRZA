@@ -1,5 +1,5 @@
 # Réseau vivant
-![](media/)
+![](media/reseau_vivant.jpeg)
 ## Lieu de l'exposition
 Au Grand studio (Collège Montmorency)
 ## Type d'exposition
@@ -9,6 +9,7 @@ Temporaire
 - Deuxième visite : Mardi 17 mars 2026
 ## Titre de l'oeuvre
 TERMINAL
+![](media/terminal_projection.jpeg)
 ## Noms des artistes
 - Émeryk Bélisle
 - Elie Daher
