@@ -34,11 +34,29 @@ Interactive
 ![](media/site_terminal_schema.png)
 > https://pythons-5.github.io/Terminal/#/technique/
 ## Composantes techniques
-![](media/)
+- Un code QR
+![](media/terminal_codeqr.jpeg)
+> Photo prise par David Mirza
+
+-  Des haut-parleurs
+![](media/terminal_haut-parleur.jpeg)
+> Photo prise par David Mirza
+
+- Des lampes
+![](media/terminal_lampes.jpeg)
+> Photo prise par David Mirza
+
+- Des projecteurs (2)
+![](media/terminal_projecteur_arrière.jpeg)
+> Photo prise par David Mirza
+
+![](media/terminal_projecteur_avant.jpeg)
+> Photo prise par David Mirza
 ## Éléments nécessaires à la mise en exposition
 - Des murs
-- Des prises électriques
 - Des poufs
+![](media/terminal_poufs.jpeg)
+> Photo prise par David Mirza
 ## Expérience vécue
 ### À ma première visite
 Je me rappel d'être vraiment intrigué quand j'avais vu << Terminal >> projeté en gros sur l'un des murs du studio. J'avais eu beaucoup
