@@ -47,7 +47,7 @@ Interactive
 > Photo prise par David Mirza
 
 - Des projecteurs (2)
-![](media/terminal_projecteur_arrière.jpeg)
+![](media/terminal_projecteur_arriere.jpeg)
 > Photo prise par David Mirza
 
 ![](media/terminal_projecteur_avant.jpeg)
