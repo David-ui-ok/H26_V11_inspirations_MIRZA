@@ -1,4 +1,5 @@
 # Réseau vivant
+![](media/)
 ## Lieu de l'exposition
 Au Grand studio (Collège Montmorency)
 ## Type d'exposition
@@ -26,7 +27,9 @@ Interactive
 ## Composantes techniques
 
 ## Éléments nécessaires à la mise en exposition
-
+- Des murs
+- Des prises électriques
+- Des poufs
 ## Expérience vécue
 ### À ma première visite
 Je me rappel d'être vraiment intrigué quand j'avais vu << Terminal >> projeté en gros sur l'un des murs du studio. J'avais eu beaucoup
