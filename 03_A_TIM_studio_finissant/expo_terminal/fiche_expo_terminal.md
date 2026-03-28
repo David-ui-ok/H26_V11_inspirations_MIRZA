@@ -1,5 +1,6 @@
 # Réseau vivant
 ![](media/reseau_vivant.jpeg)
+> Photo prise par David Mirza
 ## Lieu de l'exposition
 Au Grand studio (Collège Montmorency)
 ## Type d'exposition
@@ -10,6 +11,10 @@ Temporaire
 ## Titre de l'oeuvre
 TERMINAL
 ![](media/terminal_projection.jpeg)
+> Photo prise par David Mirza
+
+![](media/terminal_vue_ensemble.jpeg)
+> Photo prise par David Mirza 
 ## Noms des artistes
 - Émeryk Bélisle
 - Elie Daher
@@ -21,12 +26,15 @@ TERMINAL
 ## Description de l'oeuvre
 TERMINAL est un projet réalisé par des finissants en Technique d'intégration multimédia. C'est un jeu collaboratif et on peut jouer avec un maximum de 6 joueurs. Pour accéder au jeu TERMINAL, il faut scanner un code QR (fourni par les finissants)
 avec un téléphone cellulaire. L'objectif du jeu est de finir chaque niveau en évitant des obstacles. 
+![](media/terminal_cartel.jpeg)
+> Photo prise par David Mirza
 ## Type d'installation
 Interactive
 ## Mise en espace
-
+![](media/site_terminal_schema.png)
+> https://pythons-5.github.io/Terminal/#/technique/
 ## Composantes techniques
-
+![](media/)
 ## Éléments nécessaires à la mise en exposition
 - Des murs
 - Des prises électriques
