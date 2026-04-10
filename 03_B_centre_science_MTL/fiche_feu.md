@@ -25,7 +25,8 @@ Support pédagogique
 ## Éléments nécessaires à la mise en exposition
 
 ## Expérience vécu
-
+J'étais intrigué par le dispositif à cause qu'il fesait de la lumière. Après d'avoir scanné le code du bracelet sur l'écran, j'ai intéragi avec le dispositif. Je devais sélectionner un combustible en appuyant sur les boutons et ensuite soufler sur des microphones. Quand le dispositif salumait, j'étais surpris.
+C'était fascinant à voire. J'ai joué avec le feu, sans joué avec le feu! 
 ## Ce qui m'a plu
 
 ## Ce que je n'ai pas aimé
