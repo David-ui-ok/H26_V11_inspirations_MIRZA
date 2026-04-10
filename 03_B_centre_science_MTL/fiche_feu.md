@@ -10,3 +10,18 @@ Feu feu joli feu
 Gsm Studio
 ## Partenariat
 Centre des sciences de Montréal
+## Année de réalisation
+L'exposition est randu publique depuis le 1 mars 2025
+## Description de l'oeuvre
+
+## Type d'installation
+Permanante
+## Fonction du dispositif
+Support pédagogique 
+## Mise en espace
+
+## Composantes et techniques
+
+## Éléments nécessaires à la mise en exposition
+
+## Expérience vécu
