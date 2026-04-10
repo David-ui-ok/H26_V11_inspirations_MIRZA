@@ -25,3 +25,7 @@ Support pédagogique
 ## Éléments nécessaires à la mise en exposition
 
 ## Expérience vécu
+
+## Ce qui m'a plu
+
+## Ce que je n'ai pas aimé
