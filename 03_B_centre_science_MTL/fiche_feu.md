@@ -13,7 +13,7 @@ Centre des sciences de Montréal
 ## Année de réalisation
 L'exposition est randu publique depuis le 1 mars 2025
 ## Description de l'oeuvre
-
+Le dispositif est composé d'un écran, des boutons, des microphones et des cibles pour scanner le code sur les bracelets. Tout ces composantes se trouve dans un petit espace dans la sale d'exposition où se trouve le dispositif.
 ## Type d'installation
 Permanante
 ## Fonction du dispositif
