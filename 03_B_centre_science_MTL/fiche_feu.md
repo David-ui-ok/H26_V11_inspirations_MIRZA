@@ -1,12 +1,20 @@
 # Nom de l'exposition
 Nanualuk - Expédition Nordique
 ![](media/nanualuk_entree.jpg)
+> Photo prise par David Mirza
+
+![](media/nanualuk_cartel.jpg)
+> Photo prise par Sylvie Francois
+
 ## Lieu de l'exposition
 Centre des sciences de Montréal
 ## Date da la visite
 Mercredi 1 avril 2026
 ## Nom du dispositif
 Feu feu joli feu
+![](media/feu_vue-ensemble.jpg)
+> Photo prise par David Mirza
+
 ## Nom de la firme
 Gsm Studio
 ## Partenariat
@@ -20,13 +28,30 @@ Permanante
 ## Fonction du dispositif
 Support pédagogique 
 ## Mise en espace
+![](media/feu_croquis.jpg)
+> Photo prise pas David Mirza
 
 ## Composantes et techniques
 - Un écran
+![](media/feu_ecran.jpg)
+> Photo prise par David Mirza
+
 - Des boutons
+![](media/feu_boutons.jpg)
+> Photo prise par David Mirza
+
 - Un bracelet avec un code dessus
+![](media/feu_bracelet.jpg)
+> Photo prise par David Mirza
+
 - Des cibles où on peut scanner le code sur les bracelets
+![](media/feu_cible.jpg)
+> Photo prise par David Mirza
+
 - Des microphones
+
+
+
 ## Éléments nécessaires à la mise en exposition
 - Des murs
 ## Expérience vécu
