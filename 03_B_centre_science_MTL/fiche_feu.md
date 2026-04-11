@@ -1,5 +1,6 @@
 # Nom de l'exposition
 Nanualuk - Expédition Nordique
+![](media/nanualuk_entree.jpg)
 ## Lieu de l'exposition
 Centre des sciences de Montréal
 ## Date da la visite
