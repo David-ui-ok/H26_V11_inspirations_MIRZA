@@ -40,13 +40,13 @@ Immersive
 - Les haut-parleurs
 - Les projecteurs
 ![](media/-22-7_vue-dome.JPG)
-> Photo prise du site de la SAT
+> Photo prise par David Mirza
 
 ![](media/-22-7_projecteur_haut-parleurs.jpg)
 > Photo prise par David Mirza
 
 ![](media/-22-7_structure_dome.jpg)
-> Photo prise par David Mirza
+> Photo prise du site de la SAT
 
 ## Expérience du vécu
 Après quelque minutes, j'étais complètement immersé dans les images projetées dans le dome. J'avais complètement oublié que j'étais à la SAT. Dans le dome où se trouve la salle de l'exposition, il y avait des poufes. Les images sont projetées en 360 degrés, par contre il y avait toujours un élément en particulier à regarder dans les images. Cela expliquerait pourquoi les poufs sont visés vers la même direction.
