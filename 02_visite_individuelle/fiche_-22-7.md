@@ -40,7 +40,7 @@ Immersive
 - Les haut-parleurs
 - Les projecteurs
 ![](media/-22-7_vue-dome.JPG)
-> Photo prise par David Mirza
+> Photo prise du site de la SAT
 
 ![](media/-22-7_projecteur_haut-parleurs.jpg)
 > Photo prise par David Mirza
